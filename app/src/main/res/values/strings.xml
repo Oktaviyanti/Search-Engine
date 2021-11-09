@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Search Engine</string>
+
+    <string-array name="search_array">
+        <item>Choose your Browser</item>
+        <item>Google</item>
+        <item>Bing</item>
+        <item>Yahoo! Search</item>
+        <item>Baidu</item>
+        <item>DuckDuckGo</item>
+        <item>Naver</item>
+        <item>Ask.com</item>
+        <item>Aol Search</item>
+        <item>WolframAlpha</item>
+        <item>Yandex</item>
+        <item>WebCrawler</item>
+        <item>Search</item>
+        <item>Dogpile</item>
+        <item>Excite</item>
+        <item>Info.com</item>
+        <item>Swisscows</item>
+        <item>KidzSearch</item>
+        <item>Ecosia</item>
+        <item>Mojeek</item>
+    </string-array>
+</resources>
